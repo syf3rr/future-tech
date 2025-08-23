@@ -7,9 +7,9 @@ UA:
 Це багатосторінковий веб-сайт, розроблений як портфоліо-проект для демонстрації моїх навичок у Front-End розробці.
 
 Використані технології:
-  - HTML5 (для семантичної структури)
-  - SCSS (Sass) (для препроцесінгу CSS)
-  - JavaScript (для інтерактивності)
+  - HTML5 
+  - SCSS 
+  - JavaScript 
 
 Ключові особливості:
   - Адаптивний дизайн: Сайт повністю адаптований для коректного відображення на мобільних пристроях, планшетах та десктопах.
@@ -23,9 +23,9 @@ Project Description:
 This is a multi-page website developed as a portfolio project to demonstrate my skills in Front-End development.
 
 Technologies Used:
-  - HTML5 (for semantic structure)
-  - SCSS (Sass) (for CSS pre-processing)
-  - JavaScript (for interactivity)
+  - HTML5 
+  - SCSS 
+  - JavaScript 
 
 Key Features:
   - Responsive Design: The website is fully adapted for correct display on mobile devices, tablets, and desktops.
